@@ -61,9 +61,4 @@ Resolve the errors and warnings that are shown in the application.
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
 
-### Support
-
- 
-### Image Assets
-We were unable to find Images, Please add manually to ```project/assets``` and replace image_not_found Image constant with original file 
  
